@@ -1,0 +1,69 @@
+1.
+“像这类‘存储器-内存’问题的解答大都使用类比法：‘内存就好比你的办公桌，而存储器就好比你的文件柜。’
+就问题本身而言，它的确给出了满意的回答。
+但我对此答案并不满意，主要原因在于这个答案将计算机的体系结构与办公室的结构等同起来，但是内存与存储器的区别其实是在逻辑层面上的，它体现着计算机体系结构的实际需求与存储器客观性能之间的矛盾，
+简单地说就是我们找不到一种同时具备这两种存储器所有优点的存储媒介，这些优点就包括存储速度块，存储容量大，非易失性等等。
+今天的计算机都采用‘冯·诺依曼体系结构’五十年来它一直是计算机体系结构的主导，而内存与存储器的区分也正是由于这种体系结构的不足所导致的。”
+
+标注：
+关于这一段，我明白了一个事实。
+如今"存储器-内存"并非计算机结构的最优解，它只是以"冯·诺依曼体系结构"而构建出来的机器，
+由上文中作者导读中“大道至简”的概念，可推断，对于"存储器-内存"结构下的计算机，我们仍有很大的改进与化简的空间，
+在新的结构之下，计算机应当存储速度块，存储容量大，非易失性等，最主要的是极简与合乎客观自然规律，
+如人类进化出聪慧思辨的大脑，狮子进化出进攻雄猛的獠牙，鸟儿进化出翱翔天际的翅膀一般，
+计算机也应当进化出它的极致之道，和这个世界上任何一个事物一样顺应自然客观的历史规律与必然性。
+
+Most explanations for questions like “memory vs. storage” use analogy: “Memory is like your desk, while storage is like your filing cabinet.”
+As far as the question itself is concerned, this does provide a satisfactory answer.
+However, I am not entirely satisfied with this answer, mainly because it equates computer architecture with the structure of an office. 
+In fact, the distinction between memory and storage exists at the logical level—it reflects the tension between the actual requirements of computer architecture and the objective performance characteristics of storage devices.
+Simply put, there is no single storage medium that simultaneously possesses all the advantages of these two types of storage, including fast access speed, large capacity, non-volatility, and so on.
+Modern computers all adopt the “von Neumann architecture,” which has dominated computer architecture for the past fifty years. 
+The distinction between memory and storage is precisely a consequence of the limitations inherent in this architecture.
+
+Annotation:
+From this paragraph, I understand one fact:
+Today’s “memory-storage” design is not the optimal solution for computer architecture; it is merely a machine built upon the Von Neumann architecture.
+From the author’s introduction earlier, emphasizing the concept of “simplicity in great principles,” one can infer that 
+there is still significant room for improvement and simplification under the “memory-storage” structure.
+Under a new architecture, computers should ideally have high-speed memory, large storage capacity, non-volatility, and—most importantly—extreme simplicity in harmony with objective natural laws. 
+Just as humans evolved intelligent and reflective brains, lions evolved powerful predatory fangs, and birds evolved wings to soar the skies, 
+computers too should evolve toward their ultimate form, following the natural objective historical laws and inevitabilities that govern everything in this world.
+
+2026/1/30  23：32
+
+
+2.
+第一章 至亲密友
+
+通过对第一章的阅读，我了解到了一切的信息交流与传递都可以编排实用且方便的编码或者可以叫做一种语言。
+通过与事物相适应的编码可以大大提高交流信息的精准性与复杂性，同样也提高了信息传播的广泛性（空间）和流传度（时间）。
+当然最关键的是编码与其被使用于事物的简洁性、合理性、具体性、便捷性，也同样要使用合适的、恰当的传播媒介和途径。
+如此才能发挥出编码真正的便捷与实用，成为其被使用于事物不可或缺的一部分。
+作者用第一章对于莫斯编码和编码的讲解，告诉了我计算机与其他万事万物的信息交流一样，同样会有实用的编码作为计算机的“语言”。
+如此一来，计算机便会包罗万象，通过其自身的语言，与使用者达成一切细微的共鸣，传达出真正合理有用准确的信息，提高或者说构建出了计算机最基本的功能和作用。
+这就是编码的魅力，这就是计算机的魅力！
+
+Chapter One: Close Friends
+
+Through reading the first chapter, 
+I came to realize that all forms of information exchange and transmission can be organized through practical and efficient encoding systems, which may also be understood as languages.
+
+By adopting encoding methods that are well suited to the nature of the objects they describe, both the accuracy and the complexity of information exchange can be greatly enhanced. 
+At the same time, such encoding increases the spatial reach of information dissemination and extends its persistence over time.
+
+Most importantly, encoding must remain simple, reasonable, specific, and convenient in relation to the objects to which it is applied. 
+It must also rely on appropriate and well-chosen transmission media and channels. 
+Only under these conditions can encoding fully demonstrate its true efficiency and practicality, becoming an indispensable component of the system in which it is used.
+
+Through the discussion of Morse code and encoding in the first chapter, the author shows that computers, 
+like all other things in the world, rely on practical encoding systems as their own “language” for information exchange.
+
+In this way, computers are able to encompass an extraordinary range of possibilities. 
+Through their inherent language, they can resonate with users even at the most subtle levels, conveying information that is logical, useful, and accurate, 
+and thereby enhancing—indeed, constructing—the most fundamental functions and roles of the computer.
+
+This is the power of encoding！
+This is the power of computers！
+
+2026/1/31  23：54
